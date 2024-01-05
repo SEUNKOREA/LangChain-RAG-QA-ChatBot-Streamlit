@@ -2,7 +2,8 @@
 
 Build Google's Generative AI-based ChatBot that can be queried based on user's documents using the Langchain🦜 framework.
 
-![Demo image 2024-01-05](https://github.com/SEUNKOREA/LangChain-RAG-QA-ChatBot-Streamlit/assets/107974692/30769b46-e354-419a-878b-4a644233d425)
+
+![Demo Image 2024-01-05](https://github.com/SEUNKOREA/LangChain-RAG-QA-ChatBot-Streamlit/assets/107974692/8822fa79-6eb3-4110-85a2-2e5422071535)
 
 
 ## Update Logs
